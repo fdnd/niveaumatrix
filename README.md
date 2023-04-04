@@ -66,7 +66,7 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
 ## Semester 3 - Data-Driven Web
 
 <table>
-  <caption>Eindniveau met bijbehorende gedragscriteria en -indicatoren</caption>
+  <caption>Nveaubeschrijving semester 3 met bijbehorende gedragscriteria en -indicatoren</caption>
   <tr>
     <th colspan="5">De student werkt volgens gangbare ontwikkelmethoden, en gebruikt frameworks, templates en build tools voor het ontwerpen en ontwikkelen van complexe gebruiksvriendelijke interactieve toepassingen voor het web.</th>
   </tr>
@@ -97,5 +97,42 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
     <td>Documenteert op professionele wijze en bespreekt voortgang binnen het team.</td>
     <td>Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.</td>
     <td>Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar.</td>
+  </tr>
+</table>
+
+## Semester 2 - Data-Driven Web
+
+<table>
+  <caption>Nveaubeschrijving semester 2 met bijbehorende gedragscriteria en -indicatoren</caption>
+  <tr>
+    <th colspan="5">De student gebruikt API's en databases voor het ontwerpen en ontwikkelen van gebruiksvriendelijke interactieve toepassingen voor het web.</th>
+  </tr>
+  <tr>
+    <th>Methodisch handelen</th>
+    <th>Samenwerken</th>
+    <th>Communiceren</th>
+    <th>Probleemoplossend vermogen</th>
+    <th>Lerend vermogen</th>
+  </tr>
+  <tr>
+    <td>Kiest binnen projecten passende fases van de development-lifecycle.</td>
+    <td>Werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden.</td>
+    <td>Luistert en vraagt door, neemt wat een ander zegt serieus.</td>
+    <td>Analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossingsrichting.</td>
+    <td>Volgt aangeboden internationale ontwikkelingen in het vakgebied.</td>
+  </tr>
+  <tr>
+    <td>Combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving.</td>
+    <td>Draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording.</td>
+    <td>Kan ontwerpkeuzes, eigen ideeën en producten begrijpelijk overbrengen aan belanghebbenden.</td>
+    <td>Combineert aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.</td>
+    <td>Maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leertaken, deelt ervaring binnen de squad.</td>
+  </tr>
+  <tr>
+    <td>Houdt in beginnende mate rekening met de belangen van de eindgebruiker bij het realiseren van een oplossing voor een opdrachtgever.</td>
+    <td>Identificeert diversiteit binnen teams en handelt respectvol naar anderen.</td>
+    <td>Documenteert op professionele wijze en houdt voortgang bij.</td>
+    <td>Schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen.</td>
+    <td>Kent eigen capaciteiten en beperkingen, vergelijkt dit met het vermogen van anderen en maakt dit bespreekbaar.</td>
   </tr>
 </table>
