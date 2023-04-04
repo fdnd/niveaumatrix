@@ -29,7 +29,10 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
 
 <table>
   <caption>Eindniveau met bijbehorende gedragscriteria en -indicatoren</caption>
-  <tr><th colspan="5">De student ontwerpt en ontwikkelt zelfstandig complexe gebruiksvriendelijke, interactieve toepassingen voor het web. De student beheerst de principes van het web, kan API’s en databases gebruiken, kan frameworks, templates en build tools inzetten, en werkt volgens gangbare ontwikkelmethoden.</th></tr>
+  <tr>
+    <th colspan="5">De student ontwerpt en ontwikkelt zelfstandig complexe gebruiksvriendelijke, interactieve toepassingen voor het web. De student beheerst de principes van het web, kan API’s en databases gebruiken, kan frameworks, templates en build tools inzetten, en werkt volgens gangbare ontwikkelmethoden.
+    </th>
+  </tr>
   <tr>
     <th>Methodisch handelen</th>
     <th>Samenwerken</th>
@@ -57,5 +60,42 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
     <td>Documenteert op professionele wijze en bespreekt voortgang met belanghebbenden.</td>
     <td>Schetst om gedachten en processen bespreekbaar te maken, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.</td>
     <td>Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen, maakt dit bespreekbaar en schakelt zelfstandig hulp in waar nodig.</td>
+  </tr>
+</table>
+
+## Semester 3 - Data-Driven Web
+
+<table>
+  <caption>Eindniveau met bijbehorende gedragscriteria en -indicatoren</caption>
+  <tr>
+    <th colspan="5">De student werkt volgens gangbare ontwikkelmethoden, en gebruikt frameworks, templates en build tools voor het ontwerpen en ontwikkelen van complexe gebruiksvriendelijke interactieve toepassingen voor het web.</th>
+  </tr>
+  <tr>
+    <th>Methodisch handelen</th>
+    <th>Samenwerken</th>
+    <th>Communiceren</th>
+    <th>Probleemoplossend vermogen</th>
+    <th>Lerend vermogen</th>
+  </tr>
+  <tr>
+    <td>Richt in overleg projecten in volgens de development-lifecycle.</td>
+    <td>Werkt in teams en signaleert verbeterpunten op gebied van efficiëntie en effectiviteit.</td>
+    <td>Luistert, vat samen, verifieert en vraagt door tot een boodschap helder is.</td>
+    <td>Analyseert een vraag, signaleert knelpunten en kiest onderbouwd een oplossingsrichting.</td>
+    <td>Volgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling.</td>
+  </tr>
+  <tr>
+    <td>Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving.</td>
+    <td>Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang.</td>
+    <td>Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden.</td>
+    <td>Selecteert de juiste principes, conventies en best-practices op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.</td>
+    <td>Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen.</td>
+  </tr>
+  <tr>
+    <td>Weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever.</td>
+    <td>Kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen.</td>
+    <td>Documenteert op professionele wijze en bespreekt voortgang binnen het team.</td>
+    <td>Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken.</td>
+    <td>Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar.</td>
   </tr>
 </table>
