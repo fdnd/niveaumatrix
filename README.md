@@ -63,7 +63,7 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
   </tr>
 </table>
 
-## Semester 3 - Data-Driven Web
+## Semester 3 - Workflow, Tooling & Frameworks
 
 <table>
   <caption>Nveaubeschrijving semester 3 met bijbehorende gedragscriteria en -indicatoren</caption>
@@ -134,5 +134,42 @@ De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresul
     <td>Documenteert op professionele wijze en houdt voortgang bij.</td>
     <td>Schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen.</td>
     <td>Kent eigen capaciteiten en beperkingen, vergelijkt dit met het vermogen van anderen en maakt dit bespreekbaar.</td>
+  </tr>
+</table>
+
+## Semester 2 - Static Web
+
+<table>
+  <caption>Nveaubeschrijving semester 1 met bijbehorende gedragscriteria en -indicatoren</caption>
+  <tr>
+    <th colspan="5">De student gebruikt fundamentele principes van het web voor het ontwerpen en ontwikkelen van eenvoudige gebruiksvriendelijke interactieve toepassingen voor het web.</th>
+  </tr>
+  <tr>
+    <th>Methodisch handelen</th>
+    <th>Samenwerken</th>
+    <th>Communiceren</th>
+    <th>Probleemoplossend vermogen</th>
+    <th>Lerend vermogen</th>
+  </tr>
+  <tr>
+    <td>Volgt binnen projecten de aangeboden fasering van de development-lifecycle.</td>
+    <td>Werkt in teams, laat zich hierbij begeleiden en geeft feedback aan teamleden.</td>
+    <td>Luistert naar wat een ander zegt en neemt dit serieus.</td>
+    <td>Analyseert een vraag en volgt de aangeboden oplossingsrichting.</td>
+    <td>Benoemt behandelde internationale ontwikkelingen in het vakgebied.</td>
+  </tr>
+  <tr>
+    <td>Past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.</td>
+    <td>Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.</td>
+    <td>Kan binnen de squad ontwerpkeuzes, eigen ideeën en producten begrijpelijk verwoorden.</td>
+    <td>Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.</td>
+    <td>Maakt aangeboden materie eigen en gebruikt dit bij leertaken.</td>
+  </tr>
+  <tr>
+    <td>Realiseert een oplossing voor een opdrachtgever.</td>
+    <td>Handelt respectvol naar anderen.</td>
+    <td>Documenteert volgens aangeboden richtlijnen en houdt voortgang bij.</td>
+    <td>Schetst om gedachten en processen te verkennen.</td>
+    <td>Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen.</td>
   </tr>
 </table>
