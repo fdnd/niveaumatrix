@@ -1,6 +1,6 @@
 # Niveaumatrix
 
-De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresultaat met bijbehorende gedragsindicatoren en -criteria. Op basis van de visie op het beroep en de Ad niveaubeschrijving zijn de eindkwalificaties geformuleerd. In onderstaande tabel zijn het leerresultaat en de gedragscriteria van ded 4 semesters beschreven.
+De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresultaat met bijbehorende gedragsindicatoren en -criteria. Op basis van de visie op het beroep en de Ad niveaubeschrijving zijn de eindkwalificaties geformuleerd. In onderstaande tabel zijn het leerresultaat en de gedragscriteria van de 4 semesters beschreven.
 
 
 ## Gedragscriteria HBO Ad
