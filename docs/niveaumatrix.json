@@ -1,0 +1,436 @@
+{
+    "title": "Niveaumatrix Frontend Design & Development",
+    "description": "De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresultaat met bijbehorende gedragsindicatoren en -criteria. Op basis van de visie op het beroep en de Ad niveaubeschrijving zijn de eindkwalificaties geformuleerd.",
+    "year": 2023,
+    "release_date":"4 September 2023",
+    "active": true,
+    "behavioural_criteria":[
+        {
+            "title":"Gedragscriteria HBO Ad",
+            "description":"Beschrijving gedragscriteria op HBO Ad niveau.",
+            "criteria":[
+                {
+                    "id":1,
+                    "title":"Methodisch handelen",
+                    "description":"Werkt tactisch operationeel op basis van bestaande theorie en modellen en kan deze flexibel en inventief inzetten binnen de context van projecten.",
+                },
+                {
+                    "id":2,
+                    "title":"Samenwerken",
+                    "description":"Werkt intern en extern samen met teamleden, leidinggevenden en relevante derden. Draagt verantwoordelijkheid en heeft overzicht over planning en uitvoering van eigen taken en team opbrengsten."
+                },
+                {
+                    "id":3,
+                    "title":"Communiceren",
+                    "description":"Communiceert pro-actief over taken, rol en opbrengsten met leidinggevenden, teamleden en opdrachtgevers."
+                },
+                {
+                    "id":4,
+                    "title":"Probleemoplossend vermogen",
+                    "description":"Signaleert complexe problemen en bedenkt en implementeert oplossingen op creatieve en inventieve wijze aan de hand van bestaande theorieën en modellen uit het vakgebied."
+                },
+                {
+                    "id":5,
+                    "title":"Lerend vermogen",
+                    "description":"Analyseert ontwikkelingen in het kennisdomein, deelt kennis met het team, signaleert beperkingen in eigen kennis en formuleert zelfstandig eigen leervraag."
+                }
+            ]
+        }
+    ],
+    "learning_goal":[
+        {
+            "id":1,
+            "title":"Meesterproef (Eindniveau)",
+            "semester":4,
+            "description":"De student ontwerpt en ontwikkelt zelfstandig complexe gebruiksvriendelijke interactieve toepassingen voor het web. De student beheerst de principes van het web, kan API’s en databases gebruiken, kan tools en frameworks inzetten, en werken volgens gangbare ontwikkelmethoden.",
+            "criteria":[
+                {
+                    "id":1,
+                    "title":"Methodisch handelen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Richt projecten efficiënt en effectief in volgens de development-lifecycle en houdt rekening met de beschikbare tijd."
+                        },
+                        {
+                            "id":2,
+                            "description":"Combineert principes, standaarden en best-practices op het gebied van frontend design en development en zet deze flexibel en onderbouwd in om een passende oplossing voor een opdrachtgever te realiseren."
+                        },
+                        {
+                            "id":3,
+                            "description":"Bewaakt de belangen van de eindgebruiker bij het realiseren van een oplossing voor een opdrachtgever."
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "title":"Samenwerken",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Werkt in teams, reflecteert op efficiëntie en effectiviteit en stuurt bij waar nodig."
+                        },
+                        {
+                            "id":2,
+                            "description":"Draagt verantwoording voor eigen en teamresultaten en stuurt verwachtingen van belanghebbenden."
+                        },
+                        {
+                            "id":3,
+                            "description":"Houdt rekening met diversiteit binnen teams en handelt respectvol naar anderen."
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "title":"Communiceren",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Betrekt gesprekspartners, luistert, vat samen, verifieert en vraagt door tot een boodschap helder is."
+                        },
+                        {
+                            "id":2,
+                            "description":"Presenteert en onderbouwt op overtuigende wijze ontwerpkeuzes, eigen ideeën en producten passend bij het publiek."
+                        },
+                        {
+                            "id":3,
+                            "description":"Documenteert op professionele wijze en bespreekt voortgang met belanghebbenden."
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "title":"Probleemoplossend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Analyseert een vraag, signaleert knelpunten, kiest onderbouwd oplossingsrichting en valideert resultaten."
+                        },
+                        {
+                            "id":2,
+                            "description":"Schetst om gedachten en processen bespreekbaar te maken, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken."
+                        },
+                        {
+                            "id":3,
+                            "description":"Bedenkt en implementeert complexe frontend code en gebruikt daarbij de fundamentele principes van het web, API's, databases, tools en frameworks."
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "title":"Lerend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Blijft op de hoogte van internationale ontwikkelingen in het vakgebied, omarmt verandering en maakt zelfstandig keuzes over eigen ontwikkeling."
+                        },
+                        {
+                            "id":2,
+                            "description":"Maakt zelfstandig nieuwe materie eigen, gebruikt dit bij beroepstaken, deelt ervaring met belanghebbenden en leert van anderen."
+                        },
+                        {
+                            "id":3,
+                            "description":"Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen, maakt dit bespreekbaar en schakelt zelfstandig hulp in waar nodig."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "title":"Workflow, Tooling & Frameworks",
+            "semester":3,
+            "description":"De student werkt volgens gangbare ontwikkelmethoden, en gebruikt tools en frameworks voor het ontwerpen en ontwikkelen van complexe gebruiksvriendelijke interactieve toepassingen voor het web.",
+            "criteria":[
+                {
+                    "id":1,
+                    "title":"Methodisch handelen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Richt in overleg projecten in volgens de development-lifecycle."
+                        },
+                        {
+                            "id":2,
+                            "description":"Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend design en development."
+                        },
+                        {
+                            "id":3,
+                            "description":"Weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever."
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "title":"Samenwerken",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Werkt in teams en signaleert verbeterpunten op gebied van efficiëntie en effectiviteit."
+                        },
+                        {
+                            "id":2,
+                            "description":"Draagt verantwoording voor eigen resultaten, benoemt teamresultaten en informeert belanghebbenden over de voortgang."
+                        },
+                        {
+                            "id":3,
+                            "description":"Kan omgaan met diversiteit binnen teams en handelt respectvol naar anderen."
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "title":"Communiceren",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Luistert, vat samen, verifieert en vraagt door tot een boodschap helder is."
+                        },
+                        {
+                            "id":2,
+                            "description":"Kan ontwerpkeuzes, eigen ideeën en producten overtuigend overbrengen aan belanghebbenden."
+                        },
+                        {
+                            "id":3,
+                            "description":"Documenteert op professionele wijze en bespreekt voortgang binnen het team."
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "title":"Probleemoplossend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Analyseert een vraag, signaleert knelpunten en kiest onderbouwd een oplossingsrichting."
+                        },
+                        {
+                            "id":2,
+                            "description":"Schetst om gedachten en processen te verkennen, abstracte begrippen over te brengen en de oplossingsrichting inzichtelijk te maken."
+                        },
+                        {
+                            "id":3,
+                            "description":"Bedenkt en implementeert complexe frontend code en gebruikt daarbij tools en frameworks."
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "title":"Lerend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"olgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling."
+                        },
+                        {
+                            "id":2,
+                            "description":"Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen."
+                        },
+                        {
+                            "id":3,
+                            "description":"Kent eigen capaciteiten en beperkingen, waardeert het vermogen van anderen en maakt dit bespreekbaar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "title":"Data-Driven Web",
+            "semester":2,
+            "description":"De student gebruikt API's en databases voor het ontwerpen en ontwikkelen van gebruiksvriendelijke interactieve toepassingen voor het web.",
+            "criteria":[
+                {
+                    "id":1,
+                    "title":"Methodisch handelen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Kiest binnen projecten passende fases van de development-lifecycle."
+                        },
+                        {
+                            "id":2,
+                            "description":"Combineert aangeboden principes en conventies op het gebied van frontend design en development."
+                        },
+                        {
+                            "id":3,
+                            "description":"Houdt in beginnende mate rekening met de belangen van de eindgebruiker bij het realiseren van een oplossing voor een opdrachtgever."
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "title":"Samenwerken",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden."
+                        },
+                        {
+                            "id":2,
+                            "description":"Draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording."
+                        },
+                        {
+                            "id":3,
+                            "description":"Identificeert diversiteit binnen teams en handelt respectvol naar anderen."
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "title":"Communiceren",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Luistert en vraagt door, neemt wat een ander zegt serieus."
+                        },
+                        {
+                            "id":2,
+                            "description":"Kan ontwerpkeuzes, eigen ideeën en producten begrijpelijk overbrengen aan belanghebbenden."
+                        },
+                        {
+                            "id":3,
+                            "description":"Documenteert op professionele wijze en houdt voortgang bij."
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "title":"Probleemoplossend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Analyseert een vraag, signaleert knelpunten en volgt de aangeboden oplossingsrichting."
+                        },
+                        {
+                            "id":2,
+                            "description":"Schetst om gedachten en processen te verkennen en abstracte begrippen over te brengen."
+                        },
+                        {
+                            "id":3,
+                            "description":"Bedenkt en implementeert complexere frontend code en gebruikt daarbij API's en databases."
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "title":"Lerend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Volgt aangeboden internationale ontwikkelingen in het vakgebied."
+                        },
+                        {
+                            "id":2,
+                            "description":"Maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leertaken, deelt ervaring binnen de squad."
+                        },
+                        {
+                            "id":3,
+                            "description":"Kent eigen capaciteiten en beperkingen, vergelijkt dit met het vermogen van anderen en maakt dit bespreekbaar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":4,
+            "title":"Static Web",
+            "semester":1,
+            "description":"De student gebruikt fundamentele principes van het web voor het ontwerpen en ontwikkelen van eenvoudige gebruiksvriendelijke interactieve toepassingen voor het web.",
+            "criteria":[
+                {
+                    "id":1,
+                    "title":"Methodisch handelen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Volgt binnen projecten de aangeboden fasering van de development-lifecycle."
+                        },
+                        {
+                            "id":2,
+                            "description":"Past aangeboden principes en conventies op het gebied van frontend design en development toe."
+                        },
+                        {
+                            "id":3,
+                            "description":"Realiseert een oplossing voor een opdrachtgever en de eindgebruikers."
+                        }
+                    ]
+                },
+                {
+                    "id":2,
+                    "title":"Samenwerken",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Werkt in teams, laat zich hierbij begeleiden en geeft feedback aan teamleden."
+                        },
+                        {
+                            "id":2,
+                            "description":"Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback."
+                        },
+                        {
+                            "id":3,
+                            "description":"Handelt respectvol naar anderen."
+                        }
+                    ]
+                },
+                {
+                    "id":3,
+                    "title":"Communiceren",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Luistert naar wat een ander zegt en neemt dit serieus."
+                        },
+                        {
+                            "id":2,
+                            "description":"Kan binnen de squad ontwerpkeuzes, eigen ideeën en producten begrijpelijk verwoorden."
+                        },
+                        {
+                            "id":3,
+                            "description":"Documenteert volgens aangeboden richtlijnen en houdt voortgang bij."
+                        }
+                    ]
+                },
+                {
+                    "id":4,
+                    "title":"Probleemoplossend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Analyseert een vraag en volgt de aangeboden oplossingsrichting."
+                        },
+                        {
+                            "id":2,
+                            "description":"Schetst om gedachten en processen te verkennen."
+                        },
+                        {
+                            "id":3,
+                            "description":"Bedenkt en implementeert eenvoudige frontend code en gebruikt daarbij de fundamentele principes van het web."
+                        }
+                    ]
+                },
+                {
+                    "id":5,
+                    "title":"Lerend vermogen",
+                    "indicator":[
+                        {
+                            "id":1,
+                            "description":"Benoemt behandelde internationale ontwikkelingen in het vakgebied."
+                        },
+                        {
+                            "id":2,
+                            "description":"Maakt aangeboden materie eigen en gebruikt dit bij leertaken."
+                        },
+                        {
+                            "id":3,
+                            "description":"Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+
+
+}
