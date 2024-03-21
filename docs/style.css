@@ -22,9 +22,8 @@
 body {
   background-color: var(--background);
   color: var(--color);
-  max-width: var(--max-width);
-  margin: auto;
-  padding-bottom: 3em;
+  padding: 0 clamp(1rem, 4vw, 8rem) 3rem;
+  width: max-content;
 }
 
 h1, h2 {
@@ -41,10 +40,20 @@ header, section {
 }
 
 section {
-  width: calc(100% - clamp(1rem, 4vw, 8rem) * 2);
-  margin: 2rem clamp(1rem, 4vw, 8rem) 0;
+  width: max-content;
+  margin: 2rem 0 0;
   border: 2px solid var(--green);
-  padding: 1em;
+}
+
+section h2 {
+  padding: 1rem 1rem 0;
+  width: max-content;
+  max-width: 100%;
+}
+
+section h2, section caption, section th:not([class]) {
+  position: sticky;
+  left: 0;
 }
 
 header {
@@ -52,20 +61,18 @@ header {
   max-width: 90vw;
   padding: 2em 1em;
   background: var(--purple);
-  margin: 2rem clamp(1rem, 4vw, 8rem) 0;
+  margin: 2rem 0 0;
 }
 
 table {
   display: block;
-  max-width: calc(100vw - 2rem);
-  overflow-x: auto;
   margin-top: 2em;
-  margin: 0 -1rem;
+  padding-bottom: 1rem;
 }
 
 th, td {
-  width: 20%;
-  padding: 0.5em 1em 0;
+  width: 20vw;
+  padding: 0.5em 1rem 0;
   min-width: 300px;
 }
 
@@ -99,6 +106,6 @@ p+p {
   margin-top: 1em;
 }
 
-p, th {
+p, caption {
   max-width: 80ch;
 }
