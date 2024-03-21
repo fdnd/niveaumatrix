@@ -32,32 +32,55 @@ h1, h2 {
   line-height: 1;
 }
 
-h3, h4 {
+h3, h4, th {
   letter-spacing: -0.03em;
 }
 
-header,
-article {
+header, section {
   border-radius: 1rem;
 }
 
-.flex-container, .header {
-  padding: 2rem clamp(1rem, 4vw, 8rem) 0;
+section {
+  width: calc(100% - clamp(1rem, 4vw, 8rem) * 2);
+  margin: 2rem clamp(1rem, 4vw, 8rem) 0;
+  border: 2px solid var(--green);
+  padding: 1em;
 }
+
 header {
   width: max-content;
   max-width: 90vw;
   padding: 2em 1em;
   background: var(--purple);
   margin: 2rem clamp(1rem, 4vw, 8rem) 0;
-
 }
 
-article {
-  border: 2px solid var(--green);
-  padding: 2em 1em;
-  border-radius: 1rem;
-  
+table {
+  display: block;
+  max-width: calc(100vw - 2rem);
+  overflow-x: auto;
+  margin-top: 2em;
+  margin: 0 -1rem;
+}
+
+th, td {
+  width: 20%;
+  padding: 0.5em 1em 0;
+  min-width: 300px;
+}
+
+th {
+  padding-top: 1em;
+}
+
+@media (max-width: 700px) {
+  th[colspan] {
+    display: block;
+
+  }
+}
+caption {
+  padding: 0.5em 1em;
 }
 
 header+section,
@@ -65,17 +88,6 @@ section+section {
   margin-top: 4em;
 }
 
-.flex-container {
-  display: flex;
-  overflow-x: auto;
-  gap: 2em;
-}
-
-.flex-container>* {
-  flex: 1;
-  min-width: 300px;
-  max-width: calc(100vw - 7rem);
-}
 
 h2+p,
 h1+p,
@@ -87,6 +99,6 @@ p+p {
   margin-top: 1em;
 }
 
-p {
+p, th {
   max-width: 80ch;
 }
