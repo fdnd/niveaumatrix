@@ -250,11 +250,11 @@
                    },
                    {
                       "id":2,
-                      "description":"Combineert aangeboden principes en conventies op het gebied van frontend design en development."
+                      "description":"Combineert aangeboden principes en standaarden op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren."
                    },
                    {
                       "id":3,
-                      "description":"Houdt in beginnende mate rekening met de belangen van de eindgebruiker bij het realiseren van een oplossing voor een opdrachtgever."
+                      "description":"Houdt in beginnende mate rekening met belangen van eindgebruikers, valideert door middel van testen en verwerkt testresultaten."
                    }
                 ]
              },
@@ -264,11 +264,11 @@
                 "indicator":[
                    {
                       "id":1,
-                      "description":"Werkt in teams, vraagt begeleiding waar nodig en geeft feedback aan teamleden."
+                      "description":"Werkt in teams, vraagt begeleiding waar nodig en wijst teamleden op hun verantwoording."
                    },
                    {
                       "id":2,
-                      "description":"Draagt verantwoording voor eigen resultaten, verwerkt ontvangen feedback en wijst teamleden op hun verantwoording."
+                      "description":"Draagt verantwoording voor eigen resultaten, geeft feedback aan teamleden en verwerkt ontvangen feedback."
                    },
                    {
                       "id":3,
