@@ -348,11 +348,11 @@
                    },
                    {
                       "id":2,
-                      "description":"Past aangeboden principes en conventies op het gebied van frontend design en development toe."
+                      "description":"Past aangeboden principes en standaarden op het gebied van frontend design en development toe voor een opdrachtgever."
                    },
                    {
                       "id":3,
-                      "description":"Realiseert een oplossing voor een opdrachtgever en de eindgebruikers."
+                      "description":"Benoemt belangen van eindgebruikers, valideert door middel van testen en verwerkt testresultaten."
                    }
                 ]
              },
@@ -362,11 +362,11 @@
                 "indicator":[
                    {
                       "id":1,
-                      "description":"Werkt in teams, laat zich hierbij begeleiden en geeft feedback aan teamleden."
+                      "description":"Werkt samen en laat zich hierbij begeleiden."
                    },
                    {
                       "id":2,
-                      "description":"Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback."
+                      "description":"Draagt verantwoording voor eigen resultaten, geeft feedback binnen de squad en verwerkt ontvangen feedback."
                    },
                    {
                       "id":3,
@@ -420,7 +420,7 @@
                    },
                    {
                       "id":2,
-                      "description":"Maakt aangeboden materie eigen en gebruikt dit bij leertaken."
+                      "description":"Maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leertaken."
                    },
                    {
                       "id":3,
