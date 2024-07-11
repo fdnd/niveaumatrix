@@ -1,8 +1,8 @@
 {
     "title":"Niveaumatrix Frontend Design & Development",
     "description":"De eindkwalificaties voor de opleiding bestaan uit één overkoepelend leerresultaat met bijbehorende gedragsindicatoren en -criteria. Op basis van de visie op het beroep en de Ad niveaubeschrijving zijn de eindkwalificaties geformuleerd.",
-    "year":2023,
-    "release_date":"4 September 2023",
+    "year":2024,
+    "release_date":"2 September 2024",
     "active":true,
     "behavioural_criteria":[
        {
@@ -54,11 +54,11 @@
                    },
                    {
                       "id":2,
-                      "description":"Combineert principes, standaarden en best-practices op het gebied van frontend design en development en zet deze flexibel en onderbouwd in om een passende oplossing voor een opdrachtgever te realiseren."
+                      "description":"Combineert principes, standaarden, best-practices en conventies op het gebied van frontend design en development en zet deze flexibel en onderbouwd in om een passende oplossing voor een opdrachtgever te realiseren."
                    },
                    {
                       "id":3,
-                      "description":"Bewaakt de belangen van de eindgebruiker bij het realiseren van een oplossing voor een opdrachtgever."
+                      "description":"Bewaakt belangen van eindgebruikers, valideert door middel van testen en verwerkt testresultaten."
                    }
                 ]
              },
@@ -68,7 +68,7 @@
                 "indicator":[
                    {
                       "id":1,
-                      "description":"Werkt in teams, reflecteert op efficiëntie en effectiviteit en stuurt bij waar nodig."
+                      "description":"Organiseert samenwerking, reflecteert op efficiëntie en effectiviteit en stuurt bij waar nodig."
                    },
                    {
                       "id":2,
