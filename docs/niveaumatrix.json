@@ -152,11 +152,11 @@
                    },
                    {
                       "id":2,
-                      "description":"Combineert onderbouwd principes, conventies en best-practices op het gebied van frontend design en development."
+                      "description":"Combineert onderbouwd principes, standaarden en best-practices op het gebied van frontend design en development om een oplossing voor een opdrachtgever te realiseren."
                    },
                    {
                       "id":3,
-                      "description":"Weegt belangen van de eindgebruiker en de eisen en wensen van een opdrachtgever af bij het realiseren van een oplossing voor een opdrachtgever."
+                      "description":"Houdt rekening met belangen van eindgebruikers, valideert door middel van testen en verwerkt testresultaten."
                    }
                 ]
              },
@@ -166,7 +166,7 @@
                 "indicator":[
                    {
                       "id":1,
-                      "description":"Werkt in teams en signaleert verbeterpunten op gebied van efficiëntie en effectiviteit."
+                      "description":"Organiseert samenwerking en signaleert verbeterpunten op gebied van efficiëntie en effectiviteit."
                    },
                    {
                       "id":2,
@@ -220,11 +220,11 @@
                 "indicator":[
                    {
                       "id":1,
-                      "description":"olgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling."
+                      "description":"Volgt aangeboden internationale ontwikkelingen in het vakgebied en maakt onder begeleiding keuzes over eigen ontwikkeling."
                    },
                    {
                       "id":2,
-                      "description":"Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de squad en leert van anderen."
+                      "description":"Maakt aangeboden en zelf gevonden materie eigen, gebruikt dit bij leertaken, deelt ervaring binnen de tribe en leert van anderen."
                    },
                    {
                       "id":3,
