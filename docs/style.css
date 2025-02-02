@@ -109,3 +109,27 @@ p+p {
 p, caption {
   max-width: 80ch;
 }
+
+
+/* API link */
+a.api-endpoint {
+    border: 1px solid var(--green);
+    font-size: .8rem;
+    /* text-decoration:underline; */
+    padding-bottom: 0;
+    border-radius: 0;
+/*     position: absolute; */
+/*     top: 3.2rem; */
+/*     right: 1.8rem; */
+  margin: 2rem auto;
+}
+a.api-endpoint span{
+    display: none;
+}
+a.api-endpoint:hover, 
+a.api-endpoint:focus {
+    background-color: var(--green);
+    text-decoration: none;
+    color: var(--blue);
+}
+
