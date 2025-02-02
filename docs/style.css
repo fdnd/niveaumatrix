@@ -112,24 +112,31 @@ p, caption {
 
 
 /* API link */
+footer{
+  width: calc(100vw - 2*3rem);
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
 a.api-endpoint {
-    border: 1px solid var(--green);
-    font-size: .8rem;
-    /* text-decoration:underline; */
-    padding-bottom: 0;
-    border-radius: 0;
-/*     position: absolute; */
-/*     top: 3.2rem; */
-/*     right: 1.8rem; */
-  margin: 2rem auto;
+  border: 2px solid var(--blue);
+  font-size: .8em;
+  color: var(--blue);
+  /* background-color: var(--blue);; */
+  text-decoration:none;
+  padding-bottom: 0;
+  border-radius: 0;
+  /* margin: 2rem auto; */
+  padding: 0.6em;
 }
 a.api-endpoint span{
-    display: none;
+  display: none;
 }
 a.api-endpoint:hover, 
 a.api-endpoint:focus {
-    background-color: var(--green);
-    text-decoration: none;
-    color: var(--blue);
+  background-color: var(--blue);
+  /* border-color: var(--blue); */
+  text-decoration: none;
+  color: var(--green);
 }
 
