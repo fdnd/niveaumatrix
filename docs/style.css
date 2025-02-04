@@ -113,29 +113,32 @@ p, caption {
 
 /* API link */
 footer{
-  width: calc(100vw - 2*3rem);
+  width: calc(100vw - 2*2em);
   padding: 2rem;
   display: flex;
   justify-content: center;
 }
 a.api-endpoint {
-  border: 2px solid var(--blue);
+  background-color: var(--green);
+  border: 2px solid var(--green);
+  border-radius: .4rem;
+  padding: 0.2em 1em;
   font-size: .8em;
+  font-weight: bold;
   color: var(--blue);
-  /* background-color: var(--blue);; */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
   text-decoration:none;
-  padding-bottom: 0;
-  border-radius: 0;
-  /* margin: 2rem auto; */
-  padding: 0.6em;
 }
 a.api-endpoint span{
-  display: none;
+
 }
 a.api-endpoint:hover, 
 a.api-endpoint:focus {
   background-color: var(--blue);
-  /* border-color: var(--blue); */
+  border-color: var(--blue);
   text-decoration: none;
   color: var(--green);
 }
